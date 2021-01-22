@@ -6,4 +6,5 @@
 <li>Identifying Overfitting With Learning Curve.</li>
 <li>Overcoming Overfitting.</li>
 </ol>
+<p>In case of a problem in viewing the notebook read <a href="https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/issues/11" target="_blank">this</a></p>
 </html>
